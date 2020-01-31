@@ -1,0 +1,13 @@
+/*
+ * File:   ADC.c
+ * Author: hee
+ *
+ * Created on January 30, 2020, 10:20 AM
+ */
+
+
+#include <xc.h>
+
+void ADC(adc){
+    return adc;
+}
